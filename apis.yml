@@ -1,0 +1,32 @@
+aid: railway-transport-for-france
+name: Railway Transport for France
+description: "SNCF public API"
+url: https://www.digital.sncf.com/startup/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Railway Transport for France
+    description: "SNCF public API"
+    humanURL: https://www.digital.sncf.com/startup/api
+    baseURL: https://www.digital.sncf.com/startup/api
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: https://www.digital.sncf.com/startup/api
+common:
+  - type: Website
+    url: https://www.digital.sncf.com/startup/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
