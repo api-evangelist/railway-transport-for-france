@@ -39,7 +39,6 @@ apis:
   - name: Railway Transport for France
     description: "SNCF public API"
     humanURL: https://www.digital.sncf.com/startup/api
-    baseURL: https://www.digital.sncf.com/startup/api
     tags:
       - Transportation
     properties:
